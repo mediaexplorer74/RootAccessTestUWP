@@ -9,7 +9,7 @@ It only detects the state of locking/unlocking the bootloader (at/in my Lumia 95
 
 #Screenshots
 <table><tr>
-<td> <img src="Images/shot1.png" alt="Drawing" style="width: 800px;"/> </td>
+<td> <img src="Images/shot1.png" alt="Drawing" style="width: 380px;"/> </td>
 </tr></table>
 
 
